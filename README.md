@@ -1,35 +1,32 @@
 ### Hi there, I'm Tom 👋
 
 Independent AI Systems Engineer, Multimodal Explorer & Agentic Workflow Builder.  
-Building production-grade AI applications with high aesthetic standards and lean engineering.
+Focusing on production-grade generative applications, visual typography engines, and autonomous agent loops.
 
-- 🔭 Currently building: **[Agnes Studio](https://github.com/tomyiyi/agnes-studio)** (Next-generation generative studio & professional poster engine)
-- 🧠 Second Brain: LLM-powered knowledge base & continuous self-evolving Wiki
-- 📍 Based in Shenzhen / Remote
-- 💬 Ask me about: Multimodal AI pipelines, Typography design engines, Browser automation, Agent architecture
+- 🔭 Currently crafting: **[Agnes Studio](https://github.com/tomyiyi/agnes-studio)** — Next-generation generative studio & industrial poster typography engine.
+- 🧠 Focus: Hybrid AI rendering (Diffusion Negative Space + CSS3 Vector Typography), macOS native agent control, and continuous knowledge systems.
+- 📍 Based in Shenzhen / Remote.
 
 📫 **How to reach me:**
 - 🐙 GitHub: [@tomyiyi](https://github.com/tomyiyi)
-- 💼 Collaboration / Inquiries: Open to innovative AI opportunities & technical co-creation
+- 💼 Inquiries & Collaboration: Open to cutting-edge AI product development and architectural consulting.
 
 ---
 
-### 🚀 Featured Products & Open Source
+### 🚀 Featured Products & Highlights
 
-- **[Agnes Studio](https://github.com/tomyiyi/agnes-studio)** — Next-generation generative studio & industrial poster typography engine. Solves Chinese AI typography artifacts by combining high-aesthetic negative space with Headless Chrome subpixel rasterization.
-- **[Hermes Wiki](https://github.com/tomyiyi/hermes-wiki-tom)** — An LLM-native personal knowledge operating system & second brain for automated ingestion, synthesis, and verification.
-- **[Agent Library Workbench](https://github.com/tomyiyi)** — Multi-agent tooling workbench with unified copilot lifecycle, prompt engineering harnesses, and cross-platform integrations.
-- **[Autonomous Content Engine](https://github.com/tomyiyi)** — Full-lifecycle automated publishing pipeline: trend analysis → research drafting → polishing → AI art curation → vector layout.
+- **[Agnes Studio](https://github.com/tomyiyi/agnes-studio)** — Industrial-grade AI poster design and typography engine. Solves Chinese AI typography artifacts by combining Agnes high-aesthetic negative space with Headless Chrome subpixel rasterization. Features 5 iconic design archetypes (Swiss 12-Column Grid, CNC Article Infographic, Cyber Acid Tech HUD, Neo-Chinese Poetics, and Cinematic 2.35:1 Billing Block).
+- **[Continuous Agentic Loop](https://github.com/tomyiyi/agnes-studio)** — Zero-friction cross-machine workflow automation, featuring automated browser interaction, subpixel visual regression, and unified design tokens.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Tech Stack
 
 ```text
 Languages & Runtimes : Python, TypeScript, Node.js, Shell, Swift
-AI & Multimodal      : Agnes / Flux / SDXL, Playwright / Headless Chrome, Vision AI, Prompt Engineering
-Frameworks & Web     : Next.js, React, Tailwind CSS, FastAPI, WebSocket
-Automation & Systems : Browser-Use, MCP Protocols, Git, Docker, macOS Native Core
+AI & Multimodal      : Agnes / Flux / SDXL, Playwright / Headless Chrome, macOS Vision AI
+Frameworks & Web     : Next.js, React 19, Tailwind CSS, FastAPI, WebSocket
+Automation & Systems : Browser-Use, Tabbit Integration, MCP Protocols, Git
 ```
 
 ---
@@ -38,9 +35,9 @@ Automation & Systems : Browser-Use, MCP Protocols, Git, Docker, macOS Native Cor
 
 > *"The best code is the code never written. Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."*
 
-- **Visual & Vector Decoupling**: Models generate aesthetic textures and negative space; code handles precision typography and baselines.
-- **Proof Before Speculation**: Tangible deliverables and verified outputs speak louder than roadmaps.
-- **Production-First**: Fast feedback loops, subpixel precision, and zero-bloat architecture.
+1. **Vector Decoupling**: Models handle light, shadow, and negative space; code handles baselines, kerning, and crisp typography.
+2. **Proof Over Speculation**: Tangible deliverables and verified outputs speak louder than roadmaps.
+3. **Cross-Platform Portability**: Lightweight architecture, zero bloatware, instant one-command clone & run.
 
 ---
 
